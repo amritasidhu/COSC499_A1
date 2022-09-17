@@ -10,3 +10,7 @@ Further, two features are implemented in 2 branches.
 The first branch (b1) will be able to sort 10 positive integers of a wide range from least to greatest. 
 
 The second branch (b2) will be able to sort negative integers from least to greatest. 
+
+I navigate through my work on my local computer and github through gitbash. 
+I use git add * , git commit -m"comment", git push
+To navigate through branches, I use: git checkout branchName. To merge my main into a branch, I use git merge main once I am in the desired branch. 
