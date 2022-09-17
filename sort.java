@@ -8,6 +8,15 @@ public class sort{
 
         Arrays.sort(array);
 
-        System.out.println(Arrays.toString(array));
+        //System.out.println(Arrays.toString(array));
+
+                    //Test
+                    if(Arrays.toString(array).equals("[-222, -90, -65, -46, -29, -14, -13, -11, -8, -7]")){
+                        System.out.println("Test Passed.");
+                    }
+                    else{
+                        System.out.println("Test Failed.");
+                    }
     }
+
 }
