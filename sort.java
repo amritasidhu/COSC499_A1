@@ -8,6 +8,16 @@ public class sort{
 
         Arrays.sort(array);
 
-        System.out.println(Arrays.toString(array));
+        //System.out.println(Arrays.toString(array));
+
+                    //Test
+                    if(Arrays.toString(array).equals("[2, 3, 6, 9, 12, 23, 29, 79, 389, 1067]")){
+                        System.out.println("Test Passed.");
+                    }
+                    else{
+                        System.out.println("Test Failed.");
+                    }
+
     }
+
 }
